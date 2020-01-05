@@ -18,7 +18,7 @@ public class WebDriverBasic {
 		}
 		//validation point
 		else {
-			System.out.println("incorrect page");
+			System.out.println("incorrect and page");
 		}
 		System.out.println(driver.getCurrentUrl());
 		//System.out.println(driver.getPageSource());
